@@ -26,9 +26,12 @@
 
 # License \ ライセンス
 
+このリポジトリの内容は[MIT License](https://en.wikipedia.org/wiki/MIT_License)です。
+
+その他の代表的なライセンスは以下の通り。
 - [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 - [BSD License](https://opensource.org/licenses/BSD-3-Clause)
 - [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
 - [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.ja.html)
 
-※GitHub自体の機能でライセンス指定できるのでそちらも同じ内容にすること
+※ソース内に同じ内容でLICENSEファイルも追加すること
