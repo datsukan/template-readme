@@ -1,7 +1,8 @@
-# 名称
+# Name \ 名称
 
-概要を記載する。  
-可能なら画像やデモのリンクなども記載する。
+↑のタイトルはリポジトリ名やソース・アプリケーション名にする。  
+ここには概要を記載する。  
+可能なら参考画像やデモのリンクなども記載する。
 
 # Requirement \ 前提要件
 
@@ -21,4 +22,13 @@
 
 # Author \ 著者
 
-神達 小楠
+神達 小楠 - Shonan Kandatsu
+
+# License \ ライセンス
+
+- [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+- [BSD License](https://opensource.org/licenses/BSD-3-Clause)
+- [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
+- [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.ja.html)
+
+※GitHub自体の機能でライセンス指定できるのでそちらも同じ内容にすること
